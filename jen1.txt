@@ -1,0 +1,3 @@
+linux is a open source tool 
+git is a version control system
+maven is a build management tool
